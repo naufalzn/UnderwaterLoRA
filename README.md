@@ -1,6 +1,6 @@
 # LoRa Based Underwater Wireless Network System
 
-This repository contains the code of LoRa transmission that is used by paper N. Z. Nabhan and J. Suryana, "LoRa Based Underwater Wireless Network System," 2024 10th International Conference on Wireless and Telematics (ICWT). The manuscript is available on IEEE Xplore. 
+This repository contains the code of LoRa transmission that is used by paper N. Z. Nabhan and J. Suryana, "LoRa Based Underwater Wireless Network System," 2024 10th International Conference on Wireless and Telematics (ICWT). The manuscript is available on [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10674681). 
 
 ## Dependencies
 - Arduino IDE or PlatformIO for compiling and uploading code to the board
